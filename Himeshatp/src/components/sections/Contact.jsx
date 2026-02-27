@@ -99,11 +99,8 @@ const Contact = ({ isDarkMode }) => {
             <h2 style={{ fontSize: 44, fontWeight: 900, color: '#fff', lineHeight: 1.1, marginBottom: 24 }}>Let's build something extraordinary together.</h2>
             <p style={{ color: '#94a3b8', fontSize: 16, lineHeight: 1.7, marginBottom: 40 }}>Whether you have a project in mind, a potential partnership, or just want to say hi, my inbox is always open.</p>
             <div style={{ display: 'flex', alignItems: 'center', gap: 16, marginBottom: 36 }}>
-              <div style={{ width: 44, height: 44, borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#94a3b8' }}><EmailIcon /></div>
-              <div>
-                <p style={{ fontSize: 11, color: '#64748b', fontWeight: 600, letterSpacing: '0.1em', marginBottom: 2 }}>EMAIL ME</p>
-                <p style={{ color: '#fff', fontWeight: 600, fontSize: 15 }}>pathiranathimesha2021@gmail.com</p>
-              </div>
+        
+             
             </div>
             <div style={{ display: 'flex', gap: 12 }}>
               {[{ Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/himesha-pathirana-aa3659214/' }, { Icon: GitHubIcon, href: 'https://github.com/himeshapathirana' }].map(({ Icon, href }, i) => (
