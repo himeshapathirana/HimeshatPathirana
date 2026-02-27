@@ -53,7 +53,7 @@ export const experience = [
     title: 'Full Stack Developer (Mobile & Web)',
     company: 'Portal (PVT) LTD',
     bullets: [
-      'Developed and maintained full-stack applications using Flutter (mobile & web) and Node.js',
+      'Developed and maintained full-stack applications using Flutter (mobile & web) and NestJS',
       'Integrated REST APIs and managed end-to-end data flow between frontend and backend systems',
       'Implemented MVC-based architecture to ensure clean separation of concerns and scalable codebases',
       'Built highly structured and maintainable projects using Flutter Hooks and modular folder structures',
