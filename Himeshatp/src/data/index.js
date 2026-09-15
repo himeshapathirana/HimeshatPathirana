@@ -10,6 +10,11 @@ export const navLinks = [
 ]
 
 export const education = [
+   {
+    period: '2026 - Present',
+    degree: 'Masters in Data Science and Artificial Intelligence',
+    school: 'University of Peradeniya',
+  },
   {
     period: '2021 - 2025',
     degree: 'Bsc(Hons) in Computer Science',
@@ -22,7 +27,7 @@ export const education = [
     ],
   },
   {
-    period: '2022 - Present',
+    period: '2022 - 2023',
     degree: 'Bachelor of Information Technology (BIT)',
     school: 'University of Colombo School of Computing (UCSC), Sri Lanka',
     gpa: '',
@@ -46,6 +51,13 @@ export const education = [
 ]
 
 export const experience = [
+  {
+    period: '2026',
+    type: 'Work',
+    typeVariant: 'dark',
+    title: 'Lecturer',
+    company: 'Cinec Campus',
+ },
   {
     period: '2025 - Present',
     type: 'Work',

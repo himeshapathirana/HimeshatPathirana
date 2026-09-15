@@ -69,7 +69,7 @@ const Hero = ({ isDarkMode }) => {
               Himesha<br />Pathirana
             </h1>
             <p style={{ fontSize: 18, maxWidth: 480, lineHeight: 1.75, color: dark ? '#94a3b8' : '#64748b', margin: 0 }}>
-              <span style={{ color: dark ? '#475569' : '#94a3b8' }}>Mobile Applicarion Dev | DevOps | UI/UX | Freelancer</span><br/>
+              <span style={{ color: dark ? '#475569' : '#94a3b8' }}> Lecturer | Mobile Application Dev | DevOps | UI/UX | Freelancer</span><br/>
               "I believe every great achievement is built on a strong foundation. I trust myself, give my best in everything I do, and treat failure as a lesson not a fear".
             </p>
             <div className="hero-btns" style={{ marginTop: 40, display: 'flex', gap: 16 }}>
