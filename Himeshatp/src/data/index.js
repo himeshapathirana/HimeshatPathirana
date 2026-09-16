@@ -10,11 +10,15 @@ export const navLinks = [
 ]
 
 export const education = [
-   {
-    period: '2026 - Present',
-    degree: 'Masters in Data Science and Artificial Intelligence',
-    school: 'University of Peradeniya',
-  },
+{
+  period: '2026 - Present',
+  degree: 'Masters in Data Science and Artificial Intelligence',
+  school: 'University of Peradeniya',
+  highlights: [
+    'Currently pursuing advanced studies in Data Science and Artificial Intelligence',
+    'Developing knowledge in machine learning, data analysis, and AI applications',
+  ],
+},
   {
     period: '2021 - 2025',
     degree: 'Bsc(Hons) in Computer Science',
@@ -50,14 +54,21 @@ export const education = [
   },
 ]
 
-export const experience = [
+
+ export const experience = [
   {
     period: '2026',
     type: 'Work',
     typeVariant: 'dark',
     title: 'Lecturer',
-    company: 'Cinec Campus',
- },
+    company: 'CINEC Campus',
+    bullets: [
+      'Deliver lectures and practical sessions in computing and information technology subjects',
+      'Guide students through programming, software development, and practical technical activities',
+      'Support students in academic projects, problem solving, and technical skill development',
+    ],
+    tags: ['Teaching', 'Computer Science', 'Programming', 'Academic Mentoring'],
+  },
   {
     period: '2025 - Present',
     type: 'Work',
